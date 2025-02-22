@@ -1,10 +1,10 @@
-package com.javatechie.spring.mockito.api.dao;
+package com.dasunhq.spring.mockito.api.dao;
 
 import java.util.List;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-import com.javatechie.spring.mockito.api.model.User;
+import com.dasunhq.spring.mockito.api.model.User;
 
 public interface UserRepository extends MongoRepository<User, Integer>{
 	

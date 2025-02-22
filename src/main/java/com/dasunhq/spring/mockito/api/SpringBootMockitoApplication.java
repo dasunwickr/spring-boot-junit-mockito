@@ -1,4 +1,4 @@
-package com.javatechie.spring.mockito.api;
+package com.dasunhq.spring.mockito.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

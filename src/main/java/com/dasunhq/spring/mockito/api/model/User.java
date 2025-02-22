@@ -1,4 +1,4 @@
-package com.javatechie.spring.mockito.api.model;
+package com.dasunhq.spring.mockito.api.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

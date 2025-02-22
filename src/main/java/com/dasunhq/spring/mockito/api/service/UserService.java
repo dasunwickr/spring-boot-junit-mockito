@@ -1,12 +1,12 @@
-package com.javatechie.spring.mockito.api.service;
+package com.dasunhq.spring.mockito.api.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.javatechie.spring.mockito.api.dao.UserRepository;
-import com.javatechie.spring.mockito.api.model.User;
+import com.dasunhq.spring.mockito.api.dao.UserRepository;
+import com.dasunhq.spring.mockito.api.model.User;
 
 @Service
 public class UserService {

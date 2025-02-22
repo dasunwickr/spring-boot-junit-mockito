@@ -1,4 +1,4 @@
-package com.javatechie.spring.mockito.api.controller;
+package com.dasunhq.spring.mockito.api.controller;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.javatechie.spring.mockito.api.model.User;
-import com.javatechie.spring.mockito.api.service.UserService;
+import com.dasunhq.spring.mockito.api.model.User;
+import com.dasunhq.spring.mockito.api.service.UserService;
 
 @RestController
 public class UserController {
